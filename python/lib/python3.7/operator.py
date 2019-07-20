@@ -1,1 +1,0 @@
-/home/h4ck3y3/anaconda3/lib/python3.7/operator.py
